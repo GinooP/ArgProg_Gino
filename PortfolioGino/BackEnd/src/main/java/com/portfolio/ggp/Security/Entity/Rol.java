@@ -1,4 +1,4 @@
-
+    
 package com.portfolio.ggp.Security.Entity;
 
 import com.portfolio.ggp.Security.Enuns.RolNombre;
